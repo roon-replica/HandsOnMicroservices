@@ -32,4 +32,8 @@
 
 ### 참고 자료
 - hands on microservices with spring boot and spring cloud (magnus larsson, 박규태 옮김, 에이콘 출판)
-
+- mongodb
+  - [설치 참고 블로그](https://velog.io/@timcodejs/MongoDB-MacOS-MongoDB-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95)
+  - [공식 문서](https://www.mongodb.com/docs/manual/)
+  - [계정 생성](https://stackoverflow.com/questions/38921414/mongodb-what-are-the-default-user-and-password)
+  - [Exception authenticating MongoCredential 해결 방법](https://stackoverflow.com/questions/39086471/authentication-error-when-accessing-mongodb-through-spring-boot-app)

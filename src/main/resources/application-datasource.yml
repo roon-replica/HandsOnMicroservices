@@ -6,5 +6,12 @@ spring:
 
   data:
     mongodb:
-      uri: mongodb://roon:1234@localhost:27017/test
+#      uri: mongodb://roon:1234@localhost:27017/admin
+
+      host: localhost
+      port: 27017
+#      authentication-database: admin
+      database: mydb
+      username: roon
+      password: q234awre43q2ware  # mongodb도 비번 복잡성 규칙있나봄. "1234"로 설정하니까 인증 실패함
 

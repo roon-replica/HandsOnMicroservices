@@ -37,3 +37,5 @@
   - [공식 문서](https://www.mongodb.com/docs/manual/)
   - [계정 생성](https://stackoverflow.com/questions/38921414/mongodb-what-are-the-default-user-and-password)
   - [Exception authenticating MongoCredential 해결 방법](https://stackoverflow.com/questions/39086471/authentication-error-when-accessing-mongodb-through-spring-boot-app)
+  - [Baeldung | queries in spring data mongodb](https://www.baeldung.com/queries-in-spring-data-mongodb)
+  - [mongodb 연동, CRUD 참고 블로그](https://ksr930.tistory.com/267)

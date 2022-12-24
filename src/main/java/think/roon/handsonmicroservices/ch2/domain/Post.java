@@ -1,6 +1,7 @@
 package think.roon.handsonmicroservices.ch2.domain;
 
 import lombok.AccessLevel;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.annotation.Version;
@@ -10,8 +11,9 @@ import javax.persistence.CollectionTable;
 import javax.persistence.ElementCollection;
 import java.util.List;
 
+@Getter
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
-@Document
+@Document(collection = "mycollection")
 public class Post {
     @Id
     private String id;

@@ -22,10 +22,10 @@
 
 ### 학습 계획
 - cycle-1
-  -[ ] basic(ch1 ~ ch6): 12.24.sat ~ 12.25.sun (2d)
-  -[ ] reactive(ch7): 12.28.wed (1d)
-  -[ ] spring cloud 활용(ch8 ~ ch14): 12.29.thu ~ 1.3.tue (6d)
-  -[ ] k8s 활용(ch15 ~ ch20): ~ 1.24, (설날 연휴까지)
+  - [ ] basic(ch1 ~ ch6): 12.24.sat ~ 12.25.sun (2d)
+  - [ ] reactive(ch7): 12.28.wed (1d)
+  - [ ] spring cloud 활용(ch8 ~ ch14): 12.29.thu ~ 1.3.tue (6d)
+  - [ ] k8s 활용(ch15 ~ ch20): ~ 1.24, (설날 연휴까지)
   
 - cycle-2
   -[ ] 복습, 변형

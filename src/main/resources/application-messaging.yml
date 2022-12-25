@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    stream:
+      input-bindings: test-destination
+      output-bindings: test-destination
+      bindings:
+        input:
+          content-type : application/json
+        output:
+          content-type: application/json

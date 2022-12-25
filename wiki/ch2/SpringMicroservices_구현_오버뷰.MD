@@ -15,4 +15,11 @@
 - 런타임에 스웨거 기반의 API 문서를 생성
 
 ### 4. spring data
-- 
+- rdb
+- nosql
+
+### 5. spring cloud stream
+- spring cloud stream은 `게시-구독-통합 패턴`?을 기반으로 하는 메시징 방식의 스트리밍 추상화를 제공한다고 함..
+- `kafka` 지원
+- consumer group, partitioning, persistence, durability, retry, dead letter queue 등을 재정의할 수 있다는데 감 없음.
+

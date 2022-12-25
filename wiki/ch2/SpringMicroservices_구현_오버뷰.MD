@@ -23,3 +23,12 @@
 - `kafka` 지원
 - consumer group, partitioning, persistence, durability, retry, dead letter queue 등을 재정의할 수 있다는데 감 없음.
 
+### 6. Docker
+- Dockerfile
+- docker-compose
+  - 단일 명령으로 여러 컨테이너 지휘하고 싶을 때 사용(시작 및 중지)
+    ```
+    docker-compose up
+    docker-compose down
+    docker-compose logs -f --tail=0
+    ```

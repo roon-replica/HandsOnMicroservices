@@ -5,31 +5,37 @@
   - 도커를 사용한 MS 배포 실습
   - openApi/스웨거(spring fox)를 사용한 API 문서화 실습
   - resilience4j(CB) 실습
-  
+
 - 새로운 개념 학습
   - MS 실습
   - reactive MS 실습
   - spring cloud 개념, 실습
   - netflix 유레카?
-  - mongoDB 실습 
+  - mongoDB 실습
   - OAuth 2, openId Connect 실습
   - 테스트 코드 작성 노하우
   - 서비스 메시?
   - 여러 오픈소스 도구들..
     - EFK stack?, Istio?
     - MS 모니터링(Prometheus?, Grafana?)
-  
+
 
 ### 학습 계획
-- cycle-1
-  - [ ] basic(ch1 ~ ch4): 12.24.sat ~ 12.25.sun (주말 2d)
-  - [ ] basic(ch5 ~ ch6): 12.28.wed ~ 12.30.fri (주중 3d)
-  - [ ] reactive(ch7): 12.31.sat (주말 0.5d)
-  - [ ] spring cloud 활용(ch8 ~ ch14): 12.31.sat ~ 1.3.tue (주말 3.5d)
-  - [ ] k8s 활용(ch15 ~ ch20): ~ 1.24, (설날 연휴까지)
-  
-- cycle-2
-  - [ ] 복습, 변형
+- 계획
+  - [ ] ~~basic(ch1 ~ ch4): 12.24.sat ~ 12.25.sun (주말 2d)~~
+  - [ ] ~~basic(ch5 ~ ch6): 12.28.wed ~ 12.30.fri (주중 3d)~~
+  - [ ] ~~reactive(ch7): 12.31.sat (주말 0.5d)~~
+  - [ ] ~~spring cloud 활용(ch8 ~ ch14): 12.31.sat ~ 1.3.tue (주말 3.5d)~~
+  - [ ] ~~k8s 활용(ch15 ~ ch20): ~ 1.24, (설날 연휴까지)~~
+
+- 실제
+  - [x] basic(ch1 ~ ch2): 12.24.sat ~ 12.25.sun (주말 2d)
+  - [x] MS 구현 실습(ch3): 12.31.sat(0.5d)
+  - [ ] 도커로 MS 배포(ch4): 12.31.sat(0.5d)
+  - [ ] basic(ch5 ~ ch6): 1.1.sun(1d)
+  - [ ] reactive(ch7):
+  - [ ] spring cloud 활용(ch8 ~ ch14):
+  - [ ] k8s 활용(ch15 ~ ch20): ~ 1.24
 
 ### 참고 자료
 - hands on microservices with spring boot and spring cloud (magnus larsson, 박규태 옮김, 에이콘 출판)

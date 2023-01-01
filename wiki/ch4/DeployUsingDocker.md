@@ -86,3 +86,9 @@ docker ps -a # 삭제 확인
   docker rm -f ${컨테이너 NAME}
   # 그냥 컨트롤+C 해도 종료되는데..
   ```
+  
+
+### docker compose
+- 아니까 스킵..
+
+### docker compose를 사용한 MS 환경 테스트..?

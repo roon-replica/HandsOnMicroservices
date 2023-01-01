@@ -32,7 +32,8 @@
   - [x] basic(ch1 ~ ch2): 12.24.sat ~ 12.25.sun (주말 2d)
   - [x] MS 구현 실습(ch3): 12.31.sat(0.5d)
   - [x] 도커로 MS 배포(ch4): 1.1.sun(0.5d)
-  - [ ] API 문서화, 영속성 추가(ch5 ~ ch6): 1.1.sun(0.5d)
+  - [ ] API 문서화(ch5): 1.1.sun(0.5d)
+  - [ ] 영속성 추가(ch6):
   - [ ] reactive(ch7):
   - [ ] spring cloud 활용(ch8 ~ ch14):
   - [ ] k8s 활용(ch15 ~ ch20): ~ 1.24

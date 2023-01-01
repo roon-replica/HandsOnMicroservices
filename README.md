@@ -31,10 +31,13 @@
 - 실제
   - [x] basic(ch1 ~ ch2): 12.24.sat ~ 12.25.sun (주말 2d)
   - [x] MS 구현 실습(ch3): 12.31.sat(0.5d)
-  - [ ] 도커로 MS 배포(ch4): 12.31.sat(0.5d)
-  - [ ] basic(ch5 ~ ch6): 1.1.sun(1d)
+  - [x] 도커로 MS 배포(ch4): 1.1.sun(0.5d)
+  - [x] API 문서화(ch5): 1.1.sun(0.5d)
+  - [ ] spring cloud 소개(ch8): 1.1.sun
+  - [ ] netflix 유레카, 리본을 사용한 서비스 검색? (ch9) : 1.1.sun
+  - [ ] 영속성 추가(ch6):
   - [ ] reactive(ch7):
-  - [ ] spring cloud 활용(ch8 ~ ch14):
+  - [ ] spring cloud 활용(ch10 ~ ch14):
   - [ ] k8s 활용(ch15 ~ ch20): ~ 1.24
 
 ### 참고 자료

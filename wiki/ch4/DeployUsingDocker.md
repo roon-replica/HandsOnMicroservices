@@ -76,7 +76,7 @@ docker ps -a # 삭제 확인
   docker build -t app-image:0.0.1 .
   
   # 이렇게 하면 springboot 실행됨...!!!!!!!! 신기..
-  docker run --rm p8080:8080 -e "SPRING_PROFILES_ACTIVE=docker" app-image:0.0.1
+  docker run --rm -p8080:8080 -e "SPRING_PROFILES_ACTIVE=docker" app-image:0.0.1
   
   # 컨테이너 log 확인
   docker ps
